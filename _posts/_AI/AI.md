@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AI"
+title:  "AI 카테고리 만들기!"
 ---
 
 # AI 공부기록
