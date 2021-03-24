@@ -1,9 +1,5 @@
 # main links
 main:
-  - title: "Algorithm"
-    url: /_Algorithm/
-  -titile: "AI"
-    url: /_AI/
   - title: "Sample Posts"
     url: /year-archive/
   - title: "Sample Collections"
