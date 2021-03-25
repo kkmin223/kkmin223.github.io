@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "tensorflow 공부_Day1"
+title: "tensorflow 시작하기"
 ---
 
-# TensorFlow 시작하기(Day1)
+# TensorFlow 시작하기
 
 ## 노드 만들기
 
