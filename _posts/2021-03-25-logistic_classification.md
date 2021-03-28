@@ -1,10 +1,10 @@
 ---
 layout = post
-title="Logistic Classification 구현하기"
+title="Logistic Classification"
 ---
 
 
-# Logistic (regression) classifier
+# Logistic (regression) classifier 구현
 
 
 
