@@ -1,6 +1,6 @@
 ---
 layer: post
-title: "Multi-variable linear regression 구현하기"
+title: "Multi-variable linear regression"
 ---
 
 # Multi-variable linear regression 구현해보기
