@@ -2,6 +2,8 @@
 layer = post
 title="Logistic Classification 구현하기"
 ---
+
+
 # Logistic (regression) classifier
 
 
