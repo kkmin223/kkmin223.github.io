@@ -1,6 +1,6 @@
 ---
-layout = post
-title="Logistic Classification"
+layout : post
+title: "Logistic Classification"
 ---
 
 
