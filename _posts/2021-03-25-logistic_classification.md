@@ -1,5 +1,5 @@
 ---
-layer = post
+layout = post
 title="Logistic Classification 구현하기"
 ---
 
