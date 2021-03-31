@@ -85,7 +85,7 @@ with tf.Session() as sess:
 
 
     
-![png](assets/images/2021-03-31-NNforMNIST/output_1_1.png)
+![png](/assets/images/2021-03-31-NNforMNIST/output_1_1.png)
     
 
 
@@ -97,7 +97,7 @@ with tf.Session() as sess:
 
 
     
-![png](assets/images/2021-03-31-NNforMNIST/output_1_3.png)
+![png](/assets/images/2021-03-31-NNforMNIST/output_1_3.png)
     
 
 
@@ -109,7 +109,7 @@ with tf.Session() as sess:
 
 
     
-![png](assets/images/2021-03-31-NNforMNIST/output_1_5.png)
+![png](/assets/images/2021-03-31-NNforMNIST/output_1_5.png)
     
 
 
@@ -121,7 +121,7 @@ with tf.Session() as sess:
 
 
     
-![png](assets/images/2021-03-31-NNforMNIST/output_1_7.png)
+![png](/assets/images/2021-03-31-NNforMNIST/output_1_7.png)
     
 
 
@@ -133,7 +133,7 @@ with tf.Session() as sess:
 
 
     
-![png](assets/images/2021-03-31-NNforMNIST/output_1_9.png)
+![png](/assets/images/2021-03-31-NNforMNIST/output_1_9.png)
     
 
 
@@ -145,7 +145,7 @@ with tf.Session() as sess:
 
 
     
-![png](assets/images/2021-03-31-NNforMNIST/output_1_11.png)
+![png](/assets/images/2021-03-31-NNforMNIST/output_1_11.png)
     
 
 
@@ -157,7 +157,7 @@ with tf.Session() as sess:
 
 
     
-![png](assets/images/2021-03-31-NNforMNIST/output_1_13.png)
+![png](/assets/images/2021-03-31-NNforMNIST/output_1_13.png)
     
 
 
@@ -169,7 +169,7 @@ with tf.Session() as sess:
 
 
     
-![png](assets/images/2021-03-31-NNforMNIST/output_1_15.png)
+![png](/assets/images/2021-03-31-NNforMNIST/output_1_15.png)
     
 
 
@@ -181,7 +181,7 @@ with tf.Session() as sess:
 
 
     
-![png](assets/images/2021-03-31-NNforMNIST/output_1_17.png)
+![png](/assets/images/2021-03-31-NNforMNIST/output_1_17.png)
     
 
 
@@ -193,7 +193,7 @@ with tf.Session() as sess:
 
 
     
-![png](assets/images/2021-03-31-NNforMNIST/output_1_19.png)
+![png](/assets/images/2021-03-31-NNforMNIST/output_1_19.png)
     
 
 
@@ -205,7 +205,7 @@ with tf.Session() as sess:
 
 
     
-![png](assets/images/2021-03-31-NNforMNIST/output_1_21.png)
+![png](/assets/images/2021-03-31-NNforMNIST/output_1_21.png)
     
 
 
@@ -217,7 +217,7 @@ with tf.Session() as sess:
 
 
     
-![png](assets/images/2021-03-31-NNforMNIST/output_1_23.png)
+![png](/assets/images/2021-03-31-NNforMNIST/output_1_23.png)
     
 
 
@@ -229,7 +229,7 @@ with tf.Session() as sess:
 
 
     
-![png](assets/images/2021-03-31-NNforMNIST/output_1_25.png)
+![png](/assets/images/2021-03-31-NNforMNIST/output_1_25.png)
     
 
 
@@ -241,7 +241,7 @@ with tf.Session() as sess:
 
 
     
-![png](assets/images/2021-03-31-NNforMNIST/output_1_27.png)
+![png](/assets/images/2021-03-31-NNforMNIST/output_1_27.png)
     
 
 
@@ -253,7 +253,7 @@ with tf.Session() as sess:
 
 
     
-![png](assets/images/2021-03-31-NNforMNIST/output_1_29.png)
+![png](/assets/images/2021-03-31-NNforMNIST/output_1_29.png)
     
 
 
