@@ -4,7 +4,7 @@ title: "Wide and Deep NN for MNIST"
 ---
 
 # Wide and Deep NN for MNIST
-
+### 전에 1개의 layer로만 구성했던 MNIST를 딥러닝에 맞게 더 deep하고 wide하게 설정해보았다.
 
 
 ```python
