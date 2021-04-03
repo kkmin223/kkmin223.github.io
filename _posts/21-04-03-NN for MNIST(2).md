@@ -130,6 +130,6 @@ plt.show()
 
 
     
-![png](/assets/images/21-04-03-NN for MNIST(2)/output_1_1.png)
+![png](/assets/images/21-04-03-NNforMNIST(2)/output_1_1.png)
     
 
