@@ -1,7 +1,9 @@
 ---
 layout: post
-title:"CNN for MNIST"
+title: "CNN for MNIST"
 ---
+
+
 # CNN을 사용하여 MNIST분석 정확도 높이기.
 
 
